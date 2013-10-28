@@ -20,3 +20,8 @@ void MainWindow::on_pushButton_clicked()
     std::cout << "pushbutton " << std::endl;
 }
 
+
+void MainWindow::on_pushButton_2_clicked()
+{
+std:cout << "clear button" <<std::endl;
+}
