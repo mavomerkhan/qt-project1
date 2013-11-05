@@ -1,6 +1,6 @@
 /**
 * @file
-* @author Luc Renambot
+* @author Maviya Khan
 * @version 1.0
 * @section LICENSE
 *  blah blah
@@ -37,6 +37,8 @@ public:
 
 private slots:
     void on_pushButton_clicked();
+
+    void on_pushButton_2_clicked();
 
 private:
     Ui::MainWindow *ui;
